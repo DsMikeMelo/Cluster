@@ -1,6 +1,4 @@
-# Cluster
 
-<p align="center"><img src="https://raw.githubusercontent.com/carlosfab/escola-data-science/master/img/eds.png" height="100px"></p>
 
 # Clustering
 
